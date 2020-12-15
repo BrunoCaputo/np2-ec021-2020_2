@@ -12,7 +12,6 @@
     "dependencies": {
         "axios": "^0.21.0",
         "dotenv": "^8.2.0",
-        "json-web-token": "^3.2.0",
         "mongoose": "^5.11.7",
         "restify": "^8.5.1",
         "restify-router": "^0.6.2"

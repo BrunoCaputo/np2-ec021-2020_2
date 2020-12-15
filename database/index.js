@@ -1,5 +1,9 @@
 require("dotenv").config();
 
+/**
+ * DB_URL: url do banco de dados.
+ * DB_CONFIG: configuração necessária para o banco de dados.
+ */
 const DB_URL = process.env.DB_URL;
 
 const DB_CONFIG = {
