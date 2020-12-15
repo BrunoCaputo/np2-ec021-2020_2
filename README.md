@@ -1,5 +1,10 @@
 # Gerador de Memes
 
+## Equipe
+
+* [Bruno Pereira Garcia Caputo](https://github.com/BrunoCaputo);
+* [Heitor Toledo Lassarote de Paula](https://github.com/heitor-lassarote/).
+
 ## Descrição
 
 Core de um gerador de memes desenvolvido para a disciplina de Tópicos Avançados II \[EC021] do Inatel.
